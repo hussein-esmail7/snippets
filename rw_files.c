@@ -1,4 +1,3 @@
-#include <stdio.h>
 
 /*
 c_write.c
@@ -9,6 +8,8 @@ Terminal command to compile file to an executable:
     gcc -o c_write c_write.c && chmod +x c_write && ./c_write
 Description: This is a code snippet on how to read and write to and from files.
 */
+
+#include <stdio.h>
 
 int main(void) {
 
